@@ -239,3 +239,6 @@ This repository serves as the official landing page for Express Burn. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Express Burn today!**
+
+---
+**Last updated:** 2026-09-08 19:11:20 UTC
